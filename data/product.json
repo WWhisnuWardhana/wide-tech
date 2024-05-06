@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Smartphone",
+    "price": 8000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Laptop",
+    "price": 15000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Smart TV",
+    "price": 12000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Luxury Watch",
+    "price": 20000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Perfume Set",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Digital Camera",
+    "price": 12000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Designer Handbag",
+    "price": 25000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Gaming Console",
+    "price": 13000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Professional Makeup Kit",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "High-End Headphones",
+    "price": 9000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 8000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Luxury Sunglasses",
+    "price": 15000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Portable Speaker",
+    "price": 10000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Designer Perfume",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Tablet",
+    "price": 9000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Jewelry Set",
+    "price": 20000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Smart Watch",
+    "price": 13000000,
+    "type": "electronics"
+  },
+  {
+    "name": "High-End Foundation",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": 10000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Digital SLR Camera",
+    "price": 20000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Luxury Wallet",
+    "price": 25000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Hair Straightener",
+    "price": 9000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Smart Home Hub",
+    "price": 15000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Designer Belt",
+    "price": 20000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Makeup Brush Set",
+    "price": 12000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "price": 10000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Luxury Scarf",
+    "price": 18000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Action Camera",
+    "price": 12000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Anti-Aging Cream",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Premium Headset",
+    "price": 15000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Smart Home Security Camera",
+    "price": 18000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Luxury Hand Fan",
+    "price": 12000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Eyeshadow Palette",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "price": 14000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Designer Sunglasses",
+    "price": 20000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Smart Door Lock",
+    "price": 15000000,
+    "type": "electronics"
+  },
+  {
+    "name": "High-End Shampoo",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Luxury Hand Cream",
+    "price": 12000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Wireless Soundbar",
+    "price": 15000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Designer Cufflinks",
+    "price": 25000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Smart Thermostat",
+    "price": 18000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Facial Cleanser",
+    "price": 10000000,
+    "type": "cosmetics"
+  },
+  {
+    "name": "Luxury Handbag",
+    "price": 30000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 12000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Designer Necklace",
+    "price": 25000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Smart Scale",
+    "price": 10000000,
+    "type": "electronics"
+  },
+  {
+    "name": "Luxury Bathrobe",
+    "price": 18000000,
+    "type": "accessories"
+  },
+  {
+    "name": "Day Cream with SPF",
+    "price": 12000000,
+    "type": "cosmetics"
+  }
+]
